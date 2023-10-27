@@ -1,6 +1,6 @@
 # Bic HR Dashboard
 
-![BIC HR DASHBOARD(1).png](https://public.tableau.com/app/profile/friday.hyacinth/viz/BICHRDASHBOARD/BICHRDASHBOARD#1)
+![https://public.tableau.com/app/profile/friday.hyacinth/viz/BICHRDASHBOARD/BICHRDASHBOARD#1](BIC_HR_DASHBOARD.png]
 
 ## Introduction
 
