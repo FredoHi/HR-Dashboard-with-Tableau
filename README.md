@@ -1,6 +1,6 @@
 # Bic HR Dashboard
 
-![](BIC_HR_DASHBOARD.png]
+![BIC_HR_DASHBOARD.png](https://public.tableau.com/views/BICHRDASHBOARD/BICHRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Introduction
 
@@ -8,7 +8,9 @@ Bic Limited, an e-commerce and retail chain enterprise, aspires to emerge as the
 
 The primary aim of this analysis was to gain a comprehensive understanding of the attrition rate within the company's workforce. The dataset furnished valuable insights into employee demographics, salary distribution, and attrition rates, all of which contributed to the formulation of meaningful conclusions and recommendations for the company.
 
-**_DISCLAIMER_** - This dataset is not real time data nor those it represent any film dataset and the name of the company **Bic** is a made up name and those not represent any company (if any exist with the name Bic). This dataset and the company name is used to demostrate my capabilities with **_Tableau_** and **_data story telling_**.
+**_DISCLAIMER_** - _This dataset is not real time data nor those it represent any company dataset,likewise the name of the company **Bic** is a made up name and those not represent any company (if any exist with the name Bic). This dataset and the company name is used to demostrate my capabilities with_ **_Tableau_** and **_data story telling_**.
+
+This is **Tableau** based Analysis and Visualization Dashboard; you can interact with the Dashboard [Here](https://public.tableau.com/views/BICHRDASHBOARD/BICHRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 ## Data Source
 
@@ -18,9 +20,16 @@ This dataset was gotten from **_kaggle_** and it only has a single file _HR_Data
 
 A comprehensive evaluation of the dataset was conducted to identify potential data quality issues and structural anomalies that might necessitate cleaning. However, it is noteworthy that no such issues were detected within the dataset.
 
-## Exploratory Data Analysis EDA
+## Skills/Concept Demostrated
 
--Certainly, here's a rephrased version:
+- Calculated Field
+- Measures
+- If Functions
+- Quick Table Calculation
+- Filters
+- Formating
+
+## Exploratory Data Analysis EDA
 
 1. The combined count of male and female employees
 2. The total count of currently employed individuals
