@@ -1,6 +1,6 @@
 # Bic HR Dashboard
 
-![https://public.tableau.com/views/BICHRDASHBOARD/BICHRDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link](BIC_HR_DASHBOARD.png)
+![](BIC_HR_DASHBOARD.png)
 
 ## Introduction
 
