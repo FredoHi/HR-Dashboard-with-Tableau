@@ -1,6 +1,6 @@
 # Bic HR Dashboard
 
-![](BIC_HR_DASHBOARD.png)
+![BIC_HR_DASHBOARD](BIC_HR_DASHBOARD.png)
 
 ## Introduction
 
